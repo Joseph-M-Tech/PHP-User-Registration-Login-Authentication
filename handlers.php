@@ -1,5 +1,5 @@
 <?php
 
-// handlers file
+// add handlers file here
 
 ?>
